@@ -1,0 +1,11 @@
+{
+    "keyvalues":{
+        "campus" :"Baekseok",
+        "site":"Cheonan",
+        "grade" :"3rd",
+        "depat" :"Smart IT"
+    },
+    "description":"practice",
+    "image": "ipfs://QmaSxoGxnv1mkPfJURKh8WEFiFqpV9NdvQWeeV4XBNyXt7",
+    "name" : "TEST"
+}
